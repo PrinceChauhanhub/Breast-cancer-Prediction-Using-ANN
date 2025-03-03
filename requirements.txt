@@ -7,3 +7,6 @@ keras
 tensorflow==2.12.0
 ipykernel
 streamlit
+protobuf==3.20.3
+setuptools
+wheel
