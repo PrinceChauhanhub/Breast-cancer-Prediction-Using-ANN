@@ -4,6 +4,6 @@ matplotlib
 seaborn
 scikit-learn
 keras
-tensorflow
+tensorflow==2.12.0
 ipykernel
 streamlit
